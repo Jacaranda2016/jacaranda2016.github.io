@@ -1,4 +1,4 @@
-## Welcome to Jacranda's Blog
+## About Myself
 
 I just graduated with a Master degree in IT at the end of 2018 and started my career in the IT industry of Australia from Febrary of 2019. I found myself the beginner of the beginner of coding but I did not lose confidence. 
 
@@ -16,4 +16,4 @@ The purpose of this blog is to track the practices I performed on my way of self
 
 
 ## Basics of Git
-[Basics of Git](https://github.com/Jacaranda2016/jacaranda2016.github.io/blob/master/git-basics.html)
+
