@@ -16,4 +16,4 @@ The purpose of this blog is to track the practices I performed on my way of self
 
 
 ## Basics of Git
-[Basics of Git] (https://github.com/Jacaranda2016/jacaranda2016.github.io/blob/master/git-basics.html)
+[Basics of Git](https://github.com/Jacaranda2016/jacaranda2016.github.io/blob/master/git-basics.html)
