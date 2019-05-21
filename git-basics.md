@@ -53,21 +53,21 @@ A pull request is when you submit a request for the changes you have made (eithe
 - Configuration via command line
 
 This would be your identification.
-$ git config --global user.name " your username"
-$ git config --global user. email "your email address"
+- $ git config --global user.name " your username"
+- $ git config --global user. email "your email address"
 
 - Create repository locally or remotely (on Github)
-$ git init project1
-$ git cd project1
+- $ git init project1
+- $ git cd project1
 
 - Add files to repository
-$ git add filename  #add to the staging area
-$ git commit   -m "some message"  # commit to the local repository
+- $ git add filename  #add to the staging area
+- $ git commit   -m "some message"  # commit to the local repository
 
 - Push to the remote 
-$ git push
+- $ git push
 
 ### Other Git commands
-$ git clone 
-$ git pull  ??
+- $ git clone 
+- $ git pull  ??
 
