@@ -14,5 +14,6 @@ The purpose of this blog is to track the practices I performed on my way of self
 * Create a new repository named {your_username}.github.io and that's all. This URL will be the default Github Page URL for you.
 * If you create the repository using other name, it would be just a normal project not a Github Page.
 
-# [Basics of Git](https://jacaranda2016.github.io/git-basics)
+## [Basics of Git](https://jacaranda2016.github.io/git-basics)
+Git is an example of Distributed Version Control System.
 
