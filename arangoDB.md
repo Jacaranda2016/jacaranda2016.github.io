@@ -15,12 +15,14 @@ A graph-based database
    
   * LET variableName = valueExpression
   * FOR variableName in expression is used to iterate over each element of the data array.
-  * ' FOR c in Characters
-        RETURN c'
+  * '''
+     FOR c in Characters
+        RETURN c
+    '''
   * Query a specific document
-    'RETURN DOCUMENT(document_id)'
+    ''' RETURN DOCUMENT(document_id) '''
      or
-     'RETURN DOCUMENT(collection_name, document_key)'
+     ''' RETURN DOCUMENT(collection_name, document_key) '''
      
    * Query multiple documents
       put all the documents in a list
