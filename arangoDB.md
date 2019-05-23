@@ -3,10 +3,13 @@ A graph-based database
 
 
 ## Terms
-- **Collection**:  a place to store your documents.
-- **Queries**: where you write the execution codes. 
-- **AQL**: 
+### Collection:  a place to store your documents.
+### Queries: where you write the execution codes. 
+### AQL: 
+#### [Tutorial](https://www.arangodb.com/docs/stable/aql/tutorial-filter.html)
+  
   * INSERT document INTO collectionName. document----->key-value pairs.
+  
    > Each document needs a unique _key, which identifies it within a collection. 
    >The _id is a computed property, a concatenation of the collection name, a forward slash / and the document key. 
    >It uniquely identies a document within a database. _rev is a revision ID managed by the system.
@@ -41,11 +44,10 @@ A graph-based database
    } IN Characters 
    ```
    
-   
    * Delete document
    ``` REMOVE dOcument_key IN collection_name ```
    
-   
+   * Filters
    
      
   
