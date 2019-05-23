@@ -15,16 +15,34 @@ A graph-based database
    
   * LET variableName = valueExpression
   * FOR variableName in expression is used to iterate over each element of the data array.
-  * '''
+  * ```
      FOR c in Characters
         RETURN c
-    '''
+    ```
   * Query a specific document
-    ''' RETURN DOCUMENT(document_id) '''
+    ``` TURN DOCUMENT(document_id) ```
      or
-     ''' RETURN DOCUMENT(collection_name, document_key) '''
+     ``` RETURN DOCUMENT(collection_name, document_key) ```
      
    * Query multiple documents
       put all the documents in a list
+      
+   * Update a document
+    ``` UPDATE document_key WITH {key_name:new_value} IN Characters ```
+    if the key does not exist, a new key-value pair would be inserted into this document.
+    
+   * Replace the entire document
+   ``` REPLACE document_key WITH {
+       key_1: value_1,
+       key_2: value_2,
+       key_3: value_3
+   } IN Characters ```
+   
+   
+   * Delete document
+   REMOVE dOcument_key IN collection_name
+   
+   
+   
      
   
