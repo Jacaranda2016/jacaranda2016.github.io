@@ -32,15 +32,18 @@ A graph-based database
     if the key does not exist, a new key-value pair would be inserted into this document.
     
    * Replace the entire document
-   ``` REPLACE document_key WITH {
+   
+   ``` 
+   REPLACE document_key WITH {
        key_1: value_1,
        key_2: value_2,
        key_3: value_3
-   } IN Characters ```
+   } IN Characters 
+   ```
    
    
    * Delete document
-   REMOVE dOcument_key IN collection_name
+   ``` REMOVE dOcument_key IN collection_name ```
    
    
    
