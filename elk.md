@@ -55,6 +55,8 @@ a server-side data processing pipeline that ingests data from multiple sources s
 ## How to install ELK?
 Besides Elasticsearch, Logstash and Kibana, Nginx, Logstash-forwarder and JDK are also needed to be installed. 
 
+[Install Instructions](https://www.ibm.com/developerworks/cn/opensource/os-cn-elk/index.html)
+
   
   
  
