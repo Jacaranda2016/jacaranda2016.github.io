@@ -42,15 +42,18 @@ a server-side data processing pipeline that ingests data from multiple sources s
  [img](/logstashComponents.png)
         - 
 **k** ：Kibana--lets users visualize data with charts and graphs in Elasticsearch
+        - written in JS
+        - frontend visualization
+        - use Elasticsearch and interactive with data 
         
 
 [img](/elk.png)
 [img](https://jacaranda2016.github.io/webwxgetmsgimg.jpg)
 
+[img](/ELK.jpg)
 
-
-
-
+## How to install ELK?
+Besides Elasticsearch, Logstash and Kibana, Nginx, Logstash-forwarder and JDK are also needed to be installed. 
 
   
   
