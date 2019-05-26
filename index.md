@@ -23,6 +23,9 @@ Git is an example of Distributed Version Control System.
 
 ## [ELK Stack](https://jacaranda2016.github.io/elk)
 
+## [Data Cleansing Process and the Most Usef Methods](https://jacaranda2016.github.io/data-cleansing)
+
+## [Time-series Data Processing and notes] (https://jacaranda2016.github.io/time-series)
 
 
 
