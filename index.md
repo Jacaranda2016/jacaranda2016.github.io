@@ -1,7 +1,20 @@
 # About Jacaranda2016
-"The more I know, the more I realize I know nothing."
+- "The more I know, the more I realize I know nothing."
+- a curious and an avid learner
+- think outside of the box
+- good engineering skills
+- genuine “sharing and empathy” skills
+- build real-world applications
+- use high-quality medium to remain **up-to-data**
+  * meetups
+  * Github
+  * conferences
+  * developer events
+- figure out how things works/not just know what they are
+- fix all the bugs I was creating
 
-The purpose of this blog is to track the practices I performed on my way of self-evolution and record the progress I gained during this journey. I would appreciate it if you would like to give me some suggestions and advice. 
+> I had to learn new languages by building tools, scripts, apps, anything that could help me understand the internals of the language — going beyond the syntax.I was trying to figure out how things worked and how to fix all the bugs I was creating.
+
 
 # Article List
 
