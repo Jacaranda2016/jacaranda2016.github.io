@@ -97,6 +97,16 @@ df.set_index(column_name,inplace=True)
 ```
 
 5. **The most common String methods**
+- .str.upper()
+- .str.lower()
+- .str.capitalize()
+- .str.replace("$","") #replace "$" with empty 
+- .str.strip()  #去掉头尾空格、及回车或者换行delete space, /n or /t 
+- .str.split(delimiter=x)
+- .str.get(index_number)
+- .str.contains() #return true or false
+- .str.find()  #return the index 
+
 
 
 6. **How to split information in a field?**
@@ -117,6 +127,7 @@ how to check the result? using df.info() to compare.
   column_mean=df.column_name.mean()
   df[column_name]=df[column_name].fillna(column_mean)
   ```
+  
   
 
 ## Open data
