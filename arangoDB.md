@@ -7,6 +7,24 @@ A graph-based database
 ### Queries: where you write the execution codes. 
 ### AQL: 
 #### [Tutorial](https://www.arangodb.com/docs/stable/aql/tutorial-filter.html)
+Retrieving data from the database with AQL does always include a RETURN operation.
+
+#### High-level Operations
+
+>The following high-level operations are described here after:
+- FOR: Iterate over all elements of an array.
+- RETURN: Produce the result of a query.
+- FILTER: Restrict the results to elements that match arbitrary logical conditions.
+- SORT: Force a sort of the array of already produced intermediate results.
+- LIMIT: Reduce the number of elements in the result to at most the specified number, optionally skip elements (pagination).
+- LET: Assign an arbitrary value to a variable.
+- COLLECT: Group an array by one or multiple group criteria. Can also count and aggregate.
+- REMOVE: Remove documents from a collection.
+- UPDATE: Partially update documents in a collection.
+- REPLACE: Completely replace documents in a collection.
+- INSERT: Insert new documents into a collection.
+- UPSERT: Update/replace an existing document, or create it in the case it does not exist.
+- WITH: Specify collections used in a query (at query begin only).
   
   * INSERT document INTO collectionName. document----->key-value pairs.
   
@@ -29,6 +47,18 @@ A graph-based database
      
    * Query multiple documents
       put all the documents in a list
+### How to install and run a local ArangoDB server?
+
+### How to use the web interface to interact with it?
+
+### How to store data in the database?
+
+### How to query the database to retrieve the data again?
+
+### How to edit and remove existing data?
+
+
+
       
    * Update a document
     ``` UPDATE document_key WITH {key_name:new_value} IN Characters ```
