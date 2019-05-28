@@ -23,3 +23,5 @@ stateless. How the server tell your request apart from everyone else's?
 - **OPTIONS**
 - **TRACE**
 
+### URI(Uniform Resource Identifier) identifying the resource upon which to apply the request
+``` Request-URI = "*" | absoluteURI | abs_path | authority ```
