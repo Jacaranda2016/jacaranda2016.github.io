@@ -47,6 +47,11 @@ Retrieving data from the database with AQL does always include a RETURN operatio
      
    * Query multiple documents
       put all the documents in a list
+##### AQL Functions
+AQL supports functions to allow more complex computations and function name is case-insensitive. 
+Syntax for AQL functions:
+```FUNCTIONANME(arguments)```
+
 ### How to install and run a local ArangoDB server?
 
 ### How to use the web interface to interact with it?
