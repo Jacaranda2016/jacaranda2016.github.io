@@ -21,3 +21,12 @@ OOP:
 how to establish connections and how to identify each other. 
 **TCP/IP Model**
 ![img](/TCP-IP-model.png)
+- IP: 主机在计算机网络上的身份标识。
+- IP in LAN: 
+- IP in NAT:
+
+
+#### Popular words: Serverless, Microservice and Cloud
+
+#### Python Library --Requests
+
