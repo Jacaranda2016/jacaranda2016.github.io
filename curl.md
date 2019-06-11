@@ -29,3 +29,7 @@ If you specify URL without protocol:// prefix, curl will attempt to guess what p
 - it gets the data
 - it sends the data
 - it retrieves the informaiton
+
+
+
+[CURL AND HTTP](https://curl.haxx.se/docs/httpscripting.html)
