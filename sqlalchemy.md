@@ -27,6 +27,9 @@ app.config['SQLALCHEMY_ECHO']=True #logs
 app.config['SQLALCHEMY_POOL_SIZE']=100 #default pool size is 5
 app.config['SQLALCHEMY_POOL_RECYCLE']=290  #This number should < database server timeout time.
 ```
+The configurable keywords 
+https://flask-sqlalchemy.palletsprojects.com/en/2.x/config/?highlight=pool
+
 
 ## Issue 3 how to configure the engine to pool preping to avoid the long idle and timeout error
 
